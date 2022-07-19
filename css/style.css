@@ -510,9 +510,10 @@ code {
 .land-my-work .box .box-content .text {
     width: 500px;
     margin-top: 40px;
+    line-height: 1.5;
 }
 .land-my-work .box-content .text h3 {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     font-family: var(--Spesial-font);
     font-size: 1.3rem;
 }
@@ -520,6 +521,7 @@ code {
     margin-top: 0;
     margin-bottom: 1rem;
     font-size: 20px;
+    font-weight: normal;
 }
 .land-my-work .box-content .text .btn {
     margin: 0 auto 0;
